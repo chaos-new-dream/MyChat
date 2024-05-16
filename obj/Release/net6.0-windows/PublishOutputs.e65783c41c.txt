@@ -1,5 +1,0 @@
-C:\Users\19386\Desktop\MyChat\MyChat.exe
-C:\Users\19386\Desktop\MyChat\MyChat.dll
-C:\Users\19386\Desktop\MyChat\MyChat.deps.json
-C:\Users\19386\Desktop\MyChat\MyChat.runtimeconfig.json
-C:\Users\19386\Desktop\MyChat\MyChat.pdb
