@@ -1,0 +1,16 @@
+D:\WorkSpace\repos\MyChat\bin\Release\net6.0-windows\win-x64\MyChat.exe
+D:\WorkSpace\repos\MyChat\bin\Release\net6.0-windows\win-x64\MyChat.deps.json
+D:\WorkSpace\repos\MyChat\bin\Release\net6.0-windows\win-x64\MyChat.runtimeconfig.json
+D:\WorkSpace\repos\MyChat\bin\Release\net6.0-windows\win-x64\MyChat.dll
+D:\WorkSpace\repos\MyChat\bin\Release\net6.0-windows\win-x64\MyChat.pdb
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.MainWindow.resources
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.csproj.GenerateResource.cache
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.AssemblyInfoInputs.cache
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.AssemblyInfo.cs
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.csproj.CoreCompileInputs.cache
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.dll
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\refint\MyChat.dll
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.pdb
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\MyChat.genruntimeconfig.cache
+D:\WorkSpace\repos\MyChat\obj\Release\net6.0-windows\win-x64\ref\MyChat.dll
